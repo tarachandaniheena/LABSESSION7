@@ -13,3 +13,6 @@ This visualization shows the suggested improvements:
 2.The major causes of these breahes are collectively shown which gives us the information about the major threats.
 3.Entity wise reasons can be seen for the security breaches which can help the entities to work in that domain to protect their information.
 https://public.tableau.com/profile/heena.anil.tarachandani#!/vizhome/SECURITYBREACHESDONOTAFFECTFINANCIALMARKETS/Dashboard1?publish=yes
+
+CONCLUSION:
+As per this analysis,it has been inferred that security breaches do not punish the financial markets.
